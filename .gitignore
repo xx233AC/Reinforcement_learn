@@ -1,0 +1,6 @@
+.venv
+__pycache__/
+Qwen3-0.6B-Base/
+Qwen2.5-0.5B-Instruct/
+logs/
+ckpt/
